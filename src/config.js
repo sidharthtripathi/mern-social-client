@@ -1,1 +1,1 @@
-export const URL = "http://35.154.101.248:3001";
+export const URL = "https://mern-social-bakend.onrender.com";
